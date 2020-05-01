@@ -35,7 +35,3 @@ def MassVote(N, Votes):
 
     return res  
     
-
-N = 3
-Votes = [10, 15, 10]
-print(MassVote(N, Votes))
